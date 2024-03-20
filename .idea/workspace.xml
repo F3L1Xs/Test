@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3faa982b-f2b8-4cf1-bf23-2c2c1f333143" name="Changes" comment="Änderung des .HTML Namen">
+    <list default="true" id="3faa982b-f2b8-4cf1-bf23-2c2c1f333143" name="Changes" comment="Schichten/Stack als Tabel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StandbeinDesWW.html" beforeDir="false" afterPath="$PROJECT_DIR$/StandbeinDesWW.html" afterDir="false" />
     </list>
@@ -87,7 +87,7 @@
       <workItem from="1710839380300" duration="803000" />
       <workItem from="1710840289514" duration="1994000" />
       <workItem from="1710842335640" duration="440000" />
-      <workItem from="1710923747838" duration="4239000" />
+      <workItem from="1710923747838" duration="4594000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -137,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710927773806</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Schichten/Stack als Tabel">
+      <option name="closed" value="true" />
+      <created>1710928251170</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710928251170</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +206,7 @@
     <MESSAGE value="deleted empty line" />
     <MESSAGE value="Änderung zu Standbeine des WWW" />
     <MESSAGE value="Änderung des .HTML Namen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Änderung des .HTML Namen" />
+    <MESSAGE value="Schichten/Stack als Tabel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Schichten/Stack als Tabel" />
   </component>
 </project>
