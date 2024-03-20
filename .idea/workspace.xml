@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3faa982b-f2b8-4cf1-bf23-2c2c1f333143" name="Changes" comment="Schichten/Stack als Tabel">
+    <list default="true" id="3faa982b-f2b8-4cf1-bf23-2c2c1f333143" name="Changes" comment="LAMP und MEAN">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StandbeinDesWW.html" beforeDir="false" afterPath="$PROJECT_DIR$/StandbeinDesWW.html" afterDir="false" />
     </list>
@@ -87,7 +87,7 @@
       <workItem from="1710839380300" duration="803000" />
       <workItem from="1710840289514" duration="1994000" />
       <workItem from="1710842335640" duration="440000" />
-      <workItem from="1710923747838" duration="4594000" />
+      <workItem from="1710923747838" duration="5261000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -145,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710928251170</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="LAMP und MEAN">
+      <option name="closed" value="true" />
+      <created>1710928589353</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710928589353</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +215,7 @@
     <MESSAGE value="Änderung zu Standbeine des WWW" />
     <MESSAGE value="Änderung des .HTML Namen" />
     <MESSAGE value="Schichten/Stack als Tabel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Schichten/Stack als Tabel" />
+    <MESSAGE value="LAMP und MEAN" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAMP und MEAN" />
   </component>
 </project>
