@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3faa982b-f2b8-4cf1-bf23-2c2c1f333143" name="Changes" comment="Tabel änderungen">
+    <list default="true" id="3faa982b-f2b8-4cf1-bf23-2c2c1f333143" name="Changes" comment="URL URN URI">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StandbeinDesWW.html" beforeDir="false" afterPath="$PROJECT_DIR$/StandbeinDesWW.html" afterDir="false" />
     </list>
@@ -54,18 +54,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="QodanaHighlightedReportService">
-    <option name="localRunNotPublishedPersistedInfo">
-      <LocalReportPersistedInfo>
-        <option name="path" value="C:\Users\felix\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
-        <option name="reportGuid" value="9c1ca07d-cf73-4ecf-b729-0d80c771012b" />
-        <option name="reportName" value="Test/qodana/2024-03-20" />
-      </LocalReportPersistedInfo>
-    </option>
-  </component>
-  <component name="QodanaIsSelectedPersistenceService">
-    <option name="selectedOrLoading" value="true" />
-  </component>
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\felix\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="9c1ca07d-cf73-4ecf-b729-0d80c771012b" reportId="Test/qodana/2024-03-20" />
@@ -87,7 +75,8 @@
       <workItem from="1710839380300" duration="803000" />
       <workItem from="1710840289514" duration="1994000" />
       <workItem from="1710842335640" duration="440000" />
-      <workItem from="1710923747838" duration="5985000" />
+      <workItem from="1710923747838" duration="6019000" />
+      <workItem from="1711011193769" duration="440000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -161,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710929335204</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="URL URN URI">
+      <option name="closed" value="true" />
+      <created>1710929986752</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710929986752</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +222,7 @@
     <MESSAGE value="Schichten/Stack als Tabel" />
     <MESSAGE value="LAMP und MEAN" />
     <MESSAGE value="Tabel änderungen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tabel änderungen" />
+    <MESSAGE value="URL URN URI" />
+    <option name="LAST_COMMIT_MESSAGE" value="URL URN URI" />
   </component>
 </project>
