@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3faa982b-f2b8-4cf1-bf23-2c2c1f333143" name="Changes" comment="Neue Seite über HTML&#10;&#10;Input, Button, Script, iFrame" />
+    <list default="true" id="3faa982b-f2b8-4cf1-bf23-2c2c1f333143" name="Changes" comment="Neue Seite über HTML&#10;&#10;Input, Button, Script, iFrame">
+      <change beforePath="$PROJECT_DIR$/iframHTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/iframHTML.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +88,7 @@
       <workItem from="1710842335640" duration="440000" />
       <workItem from="1710923747838" duration="6019000" />
       <workItem from="1711011193769" duration="946000" />
-      <workItem from="1711531312717" duration="2626000" />
+      <workItem from="1711531312717" duration="2823000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
