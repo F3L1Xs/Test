@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3faa982b-f2b8-4cf1-bf23-2c2c1f333143" name="Changes" comment="delete headline iFrame">
+    <list default="true" id="3faa982b-f2b8-4cf1-bf23-2c2c1f333143" name="Changes" comment="Comment">
+      <change afterPath="$PROJECT_DIR$/Body.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,18 +54,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="QodanaHighlightedReportService">
-    <option name="localRunNotPublishedPersistedInfo">
-      <LocalReportPersistedInfo>
-        <option name="path" value="C:\Users\felix\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
-        <option name="reportGuid" value="f86785fb-272e-4623-9b0e-95d4f8283f61" />
-        <option name="reportName" value="Test/qodana/2024-03-27" />
-      </LocalReportPersistedInfo>
-    </option>
-  </component>
-  <component name="QodanaIsSelectedPersistenceService">
-    <option name="selectedOrLoading" value="true" />
-  </component>
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\felix\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="f86785fb-272e-4623-9b0e-95d4f8283f61" reportId="Test/qodana/2024-03-27" />
@@ -89,7 +77,8 @@
       <workItem from="1710842335640" duration="440000" />
       <workItem from="1710923747838" duration="6019000" />
       <workItem from="1711011193769" duration="946000" />
-      <workItem from="1711531312717" duration="3087000" />
+      <workItem from="1711531312717" duration="3127000" />
+      <workItem from="1712562426138" duration="5064000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -195,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711534198217</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Comment">
+      <option name="closed" value="true" />
+      <created>1711534425499</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1711534425499</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +260,7 @@
     <MESSAGE value="Fix w3.org" />
     <MESSAGE value="Neue Seite über HTML&#10;&#10;Input, Button, Script, iFrame" />
     <MESSAGE value="delete headline iFrame" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete headline iFrame" />
+    <MESSAGE value="Comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Comment" />
   </component>
 </project>
