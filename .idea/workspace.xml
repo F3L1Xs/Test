@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3faa982b-f2b8-4cf1-bf23-2c2c1f333143" name="Changes" comment="Comment">
-      <change afterPath="$PROJECT_DIR$/Body.html" afterDir="false" />
+    <list default="true" id="3faa982b-f2b8-4cf1-bf23-2c2c1f333143" name="Changes" comment="Body:&#10;form&#10;Input:&#10;-text&#10;-radiogroup&#10;-select Dropdown&#10;-checkbox&#10;-button (onclick java script)&#10;-hidden&#10;align( left, right, block, justify)&#10;img(title, alt, width, src, ...)&#10;ul unsorterte Liste type&#10;ol ordert Liste type Nummerrierungen&#10;td tabel&#10;a Hyperlink (anker, link)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +77,8 @@
       <workItem from="1710923747838" duration="6019000" />
       <workItem from="1711011193769" duration="946000" />
       <workItem from="1711531312717" duration="3127000" />
-      <workItem from="1712562426138" duration="5064000" />
+      <workItem from="1712562426138" duration="5111000" />
+      <workItem from="1712814837228" duration="515000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -192,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711534425499</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Body:&#10;form&#10;Input:&#10;-text&#10;-radiogroup&#10;-select Dropdown&#10;-checkbox&#10;-button (onclick java script)&#10;-hidden&#10;align( left, right, block, justify)&#10;img(title, alt, width, src, ...)&#10;ul unsorterte Liste type&#10;ol ordert Liste type Nummerrierungen&#10;td tabel&#10;a Hyperlink (anker, link)">
+      <option name="closed" value="true" />
+      <created>1712567512662</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712567512662</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +269,7 @@
     <MESSAGE value="Neue Seite über HTML&#10;&#10;Input, Button, Script, iFrame" />
     <MESSAGE value="delete headline iFrame" />
     <MESSAGE value="Comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comment" />
+    <MESSAGE value="Body:&#10;form&#10;Input:&#10;-text&#10;-radiogroup&#10;-select Dropdown&#10;-checkbox&#10;-button (onclick java script)&#10;-hidden&#10;align( left, right, block, justify)&#10;img(title, alt, width, src, ...)&#10;ul unsorterte Liste type&#10;ol ordert Liste type Nummerrierungen&#10;td tabel&#10;a Hyperlink (anker, link)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Body:&#10;form&#10;Input:&#10;-text&#10;-radiogroup&#10;-select Dropdown&#10;-checkbox&#10;-button (onclick java script)&#10;-hidden&#10;align( left, right, block, justify)&#10;img(title, alt, width, src, ...)&#10;ul unsorterte Liste type&#10;ol ordert Liste type Nummerrierungen&#10;td tabel&#10;a Hyperlink (anker, link)" />
   </component>
 </project>
