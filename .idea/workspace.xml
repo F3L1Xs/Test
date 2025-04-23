@@ -43,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/felix/WebstormProjects/Test&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/GIT/Test&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -74,11 +74,17 @@
       <workItem from="1710839380300" duration="803000" />
       <workItem from="1710840289514" duration="1994000" />
       <workItem from="1710842335640" duration="440000" />
+<<<<<<< Updated upstream
       <workItem from="1710923747838" duration="6019000" />
       <workItem from="1711011193769" duration="946000" />
       <workItem from="1711531312717" duration="3127000" />
       <workItem from="1712562426138" duration="5111000" />
       <workItem from="1712814837228" duration="515000" />
+=======
+      <workItem from="1710923747838" duration="5985000" />
+      <workItem from="1710942076591" duration="1037000" />
+      <workItem from="1737917186489" duration="48000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
